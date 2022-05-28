@@ -1,0 +1,18 @@
+.body1 {
+    background-image: url("https://www.pad.org/resource/resmgr/site_images/covid-19/pad_flowers_zoom_background.png");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: rgb(236, 3, 3); 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+  
+      background-color: white; 
+      border-style: double;
+  }
+  
